@@ -1,7 +1,7 @@
 {
     "Author": "DavidHendry",
     "ContentSize": 4353,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start--stop-azure-classic-virtual-machines-(runbook,-azure-automation)/master/StartStopAzureClassicVms.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start--stop-azure-classic-virtual-machines--runbook--azure-automation-/master/StartStopAzureClassicVms.ps1",
     "DownloadCount": 1159,
     "Id": "Start-Stop-Azure-Classic-e042e3b1",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Intended to be used as a Runbook within Azure automation.As part of the Automation account used to run the Runbook you'll need to create a variable for AzureSubscriptionId (this is your azure subscription ID), and a credential called AzureCredential (this needs to be an account w",
     "Title": "Start / Stop Azure Classic Virtual Machines (Runbook, Azure Automation)",
     "UpdatedDate": "2016-9-22T00:00:00",
-    "Url": "https://github.com/azureautomation/start--stop-azure-classic-virtual-machines-(runbook,-azure-automation)",
+    "Url": "https://github.com/azureautomation/start--stop-azure-classic-virtual-machines--runbook--azure-automation-",
     "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, Azure Automation"
 }
